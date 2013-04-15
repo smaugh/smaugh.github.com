@@ -36,7 +36,7 @@ em{ color: #bec5c8; font-weight: 300; }
 	padding-top: 0px;
 	width: 100%;
 }*/
-C:\Users\Edgar\Documents\GitHub\edgardiaz.github.com\assets\themes\twitter\bootstrap\img
+
 .header-container {
 border-bottom-width:  8px;
 border-bottom-style: solid;
@@ -44,7 +44,7 @@ border-bottom-color: #2f2f2f;
 padding-right: 40px;
 padding-left: 40px;
 /*background-color: #1a1a1a;*/
-background: url(/assets/themes/twitter/bootstrap/img/dark_Tire.png) scroll center top transparent;
+background: url('/assets/themes/twitter/bootstrap/img/dark_Tire.png') scroll center top transparent;
 color: #768384;
 }
 
