@@ -1,3 +1,4 @@
+
 /* Override some defaults */
 
 
@@ -21,7 +22,7 @@ body { font: normal normal 400 1em/1.5em Georgia,Serif;
     text-rendering: optimizeLegibility;} /*font: 16px/26px Helvetica, Helvetica Neue, Arial;  -webkit-font-smoothing: antialiased; font-smooth: always; text-shadow: 1px 1px 1px rgba(0,0,0,0.004);*/
 .wrapper { width: 90%; margin: 0 4%; }
 h1, h2, h3, h4, h5, h6{ font-weight: normal; }
-em{ color: #bec5c8; font-weight: 300; }
+em{ color: #000; font-weight: 300; }
 
 
 /* ==========================================================================
