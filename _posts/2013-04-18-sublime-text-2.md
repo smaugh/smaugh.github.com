@@ -63,3 +63,4 @@ desde un punto de vista mas racional:
 
 la vida es ahora... si un recuerdo del pasado te hace el presente triste, estas peridendo tu tiempo... se feliz todo el tiempo que puedas.. sonrie!!! conoce. aprende! disfruta obten!!! logra!!
 
+this is crazy... now once again I just want to marry her. 
