@@ -47,3 +47,19 @@ tags: []
 			</ul>
 		</div>		
 </div>
+
+tristemente la kachi me ve como un enemigo de su libertad y como alguien que la quiere atar, no dejarla ser quien es y restrigir su vida. por simple egoismo... inseguridad  
+seguro tiene algo de verdad lo que piensa
+quiero que dedique todo su tiempo a mi y me vea como su unica fuente de alegria... eso está muy mal de mi parte 
+
+pero al mismo tiempo, ella se porta terriblemente injusta conmigo.. al dejarme esperando, no tomarme en serio, darle mas tiempo a cualquier otra cosa que a mi. cuando la necesite sinceramente, me negó su apoyo
+
+desde un punto de vista mas racional: 
+1. hay millones de mujeres en australia y en el mundo que vale la pena conocer... y es mi deseo, ser un conversador agradable y conocer nuevas personas con quien compartir y divertirme
+2. Kachi es una persona maravillosa, pero por su carrera y por el fututo que se ha definido. aporta muy poco a mi objetivo de obtener la residencia en este pais. 
+3. Es perder el tiempo, seguir pensando dia y noche en una causa que brida tan poca satisfaccion. y si tristeza constante.
+4. sus abciones de amistad estan en personas son muy felices y admirables a su modo. al mismo tiempo yo difiero del tipo de objetivos que tengo. y genera mas ventajas y oportunidades que yo pueda conocer mas personas con carreras semajantes a la mia.
+5. Fue una bonita experiencia.. valorala, disfrutala, recuerdala y aprende. pero sigue viviendo con lo que hay. haste feliz con el ahora. no vuelvas o llorar un lagrima mas. 
+
+la vida es ahora... si un recuerdo del pasado te hace el presente triste, estas peridendo tu tiempo... se feliz todo el tiempo que puedas.. sonrie!!! conoce. aprende! disfruta obten!!! logra!!
+
