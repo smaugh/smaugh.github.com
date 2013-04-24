@@ -36,17 +36,15 @@ tags: []
 	<li>Study the New Zealand Immigration program</li>
 </ul>
 
-<div class="todays-tasks">
-			<ul>
-				<li>1. Improve smaugh's contact SEO</li>
-				<li>2. Github activity</li>
-				<li>3. Ely's prototype ready and uploaded to my portfolio</li>
-				<li>4. PHP and Ajax videos</li>
-				<li>5. WordPress workflow form PSD</li>
-				<li>6. Workout</li>
-			</ul>
-		</div>		
-</div>
+
+So yesterday and today I called Kachi at her 9 and 10pm both days there was no answer, no messages and no calling back
+only a simple email during her next morning, telling me that she saw the call on her phone.
+It is another proof that she doesn't make the time to make me feel important and prefers to do something else. 
+Whatever is what she is doing is not my business. 
+My real business is getting the australian residency. Find a Nice well paid job. Get a beautiful and intelligent girl for myself
+and be happy all the time. 
+forget the past, leave all bad feelings and live in the present.
+
 
 tristemente la kachi me ve como un enemigo de su libertad y como alguien que la quiere atar, no dejarla ser quien es y restrigir su vida. por simple egoismo... inseguridad  
 seguro tiene algo de verdad lo que piensa
