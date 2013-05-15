@@ -45,3 +45,7 @@ experts, and other to speed their learning, lets help them achieve!
 what a wonderful feeling. 
 
 now I'm working to close a few gigs with small clients, it is a beginning, I am making this happen!
+
+
+now just wrote again to my first / second client, waiting for his response. 
+is not the money is about the portfolio and the mouth to mouth marketing
