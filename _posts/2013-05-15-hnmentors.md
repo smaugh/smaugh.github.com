@@ -49,3 +49,7 @@ now I'm working to close a few gigs with small clients, it is a beginning, I am 
 
 now just wrote again to my first / second client, waiting for his response. 
 is not the money is about the portfolio and the mouth to mouth marketing
+
+***** cue to continue this post with the comments on: How I found my first two customers, and how the follow-up contact with the language
+group, generated a new business option. Please create a new post when project are working! *****
+
